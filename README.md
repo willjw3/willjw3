@@ -8,34 +8,31 @@
 Tech I work with
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/javascript.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/javascript.png" />
 </a>
 <a href="https://reactjs.org/docs/getting-started.html">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/react-native.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/react-native.png" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/html-5.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/html-5.png" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/css3.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/css3.png" />
 </a>
 <a href="https://nodejs.org/en/docs/">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/nodejs.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/nodejs.png" />
 </a>
 <a href="https://graphql.org/">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/graphql.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/graphql.png" />
 </a>
 <a href="https://d3js.org/">
-  <img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/1562726?s=400&v=4" />
-</a>
-<a href="https://dev.mysql.com/doc/">
-  <img width="30px" height="30px" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" />
+  <img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/1562726?s=400&v=4" />
 </a>
 <a href="https://docs.python.org/3/">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/python.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/python.png" />
 </a>
 <a href="https://www.linux.org/">
-  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/linux.png" />
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/linux.png" />
 </a>
 
 
