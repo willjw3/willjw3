@@ -1,5 +1,5 @@
 <a href="https://github.com/willjw3/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
 </a>
 <a href="https://github.com/willjw3/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=4&theme=dark&hide_border=true" />
