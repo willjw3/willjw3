@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My20%GitHub%20Stats)](https://github.com/willjw3/github-readme-stats)
+[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/willjw3/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&layout=compact&theme=dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)
 
 <!--
