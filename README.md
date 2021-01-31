@@ -1,10 +1,8 @@
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/willjw3/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=3&theme=dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)
 <a href="https://github.com/willjw3/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" />
 </a>
 <a href="https://github.com/willjw3/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=3&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=8&theme=dark&hide_border=true" />
 </a>
 
 <!--
