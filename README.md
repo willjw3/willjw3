@@ -5,10 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=5&theme=dark&hide_border=true" />
 </a>
 
-<a href="https://gatsbyjs.com">
-  <img width="20px" height="20px" src="https://simpleicons.org/icons/gatsby.svg" />
+<a href="https://reactjs.org/docs/getting-started.html">
+  <img width="20px" height="20px" src="https://img.icons8.com/color/2x/react-native.png" />
 </a>
-![Gatsby](https://simpleicons.org/icons/gatsby.svg)
+
 
 
 <!--
