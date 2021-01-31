@@ -13,9 +13,6 @@
 <a href="https://reactjs.org/docs/getting-started.html">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/react-native.png" />
 </a>
-<a href="https://www.gatsbyjs.com/docs/">
-  <img width="40px" height="40px" src="https://pbs.twimg.com/profile_images/1135999619781939201/HZ-pCQcP_400x400.png" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/html-5.png" />
 </a>
@@ -36,6 +33,9 @@
 </a>
 <a href="https://www.linux.org/">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/linux.png" />
+</a>
+<a href="https://docs.netlify.com/?_ga=2.245173253.1824144153.1612077074-1374524866.1571798145">
+  <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiDkNz1jCL6FhvOOZcqs8RcnqrKlAjNaFHQ&usqp=CAU" />
 </a>
 
 
