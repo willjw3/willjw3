@@ -37,6 +37,9 @@
 <a href="https://docs.microsoft.com/en-us/azure/?product=featured">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/azure-1.png" />
 </a>
+<a href="https://docs.microsoft.com/en-us/azure/?product=featured">
+  <img width="40px" height="40px" src="./icons/gatsby.svg" />
+</a>
 
 ### Find me elsewhere
 
