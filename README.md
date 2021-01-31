@@ -8,6 +8,8 @@
 <a href="https://gatsbyjs.com">
   <img width="20px" height="20px" src="https://simpleicons.org/icons/gatsby.svg" />
 </a>
+![Gatsby](https://simpleicons.org/icons/gatsby.svg)
+
 
 <!--
 **willjw3/willjw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
