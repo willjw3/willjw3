@@ -5,8 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=5&theme=dark&hide_border=true" />
 </a>
 
+Tech I work with
+
 <a href="https://reactjs.org/docs/getting-started.html">
-  <img width="20px" height="20px" src="https://img.icons8.com/color/2x/react-native.png" />
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/react-native.png" />
 </a>
 
 
