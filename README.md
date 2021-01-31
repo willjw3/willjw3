@@ -38,6 +38,23 @@
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/azure-1.png" />
 </a>
 
+### Find me elsewhere
+
+<a href="https://stackoverflow.com/users/10262432/will-ward">
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
+</a>
+<a href="https://www.freecodecamp.org/willjw3">
+  <img width="40px" height="40px" src="https://img.icons8.com/windows/2x/free-code-camp.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCroJckuB_ohjtZUewCv0Ukw?view_as=subscriber">
+  <img width="40px" height="40px" src="https://img.icons8.com/fluent/2x/youtube-play.png" />
+</a>
+<a href="https://www.linkedin.com/in/will-ward-65234a170/">
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/linkedin.png" />
+</a>
+
+
+
 
 
 <!--
