@@ -7,8 +7,20 @@
 
 Tech I work with
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/javascript.png" />
+</a>
 <a href="https://reactjs.org/docs/getting-started.html">
   <img width="30px" height="30px" src="https://img.icons8.com/color/2x/react-native.png" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/html-5.png" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/css3.png" />
+</a>
+<a href="https://nodejs.org/en/docs/">
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/nodejs.png" />
 </a>
 
 
