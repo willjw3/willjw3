@@ -5,13 +5,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=5&theme=dark&hide_border=true" />
 </a>
 
-Tech I work with
+### Tech I work with
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/javascript.png" />
 </a>
 <a href="https://reactjs.org/docs/getting-started.html">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/react-native.png" />
+</a>
+<a href="https://www.gatsbyjs.com/docs/">
+  <img width="40px" height="40px" src="https://pbs.twimg.com/profile_images/1135999619781939201/HZ-pCQcP_400x400.png" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/html-5.png" />
