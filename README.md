@@ -40,7 +40,7 @@
 <a href="https://www.netlify.com/" style="margin: 0 2.5px;">
   <img width="30px" height="30px" src="/icons/netlify.svg" />
 </a>
-<a href="https://docs.microsoft.com/en-us/azure/?product=featured" style="margin: 0 2.5px;">
+<a href="https://docs.microsoft.com/en-us/azure/?product=featured" style="margin: 0 50px;">
   <img width="30px" height="30px" src="/icons/microsoftazure.svg" />
 </a>
 
