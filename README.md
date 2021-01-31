@@ -22,6 +22,21 @@ Tech I work with
 <a href="https://nodejs.org/en/docs/">
   <img width="30px" height="30px" src="https://img.icons8.com/color/2x/nodejs.png" />
 </a>
+<a href="https://graphql.org/">
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/graphql.png" />
+</a>
+<a href="https://d3js.org/">
+  <img width="30px" height="30px" src="https://avatars.githubusercontent.com/u/1562726?s=400&v=4" />
+</a>
+<a href="https://dev.mysql.com/doc/">
+  <img width="30px" height="30px" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" />
+</a>
+<a href="https://docs.python.org/3/">
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/python.png" />
+</a>
+<a href="https://www.linux.org/">
+  <img width="30px" height="30px" src="https://img.icons8.com/color/2x/linux.png" />
+</a>
 
 
 
