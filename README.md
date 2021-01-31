@@ -49,15 +49,16 @@
 <a href="https://stackoverflow.com/users/10262432/will-ward">
   <img width="30px" height="30px" src="/icons/stackoverflow.svg" />
 </a>
+<a href="https://www.linkedin.com/in/will-ward-65234a170/">
+  <img width="30px" height="30px" src="/icons/linkedin.svg" />
+</a>
 <a href="https://www.freecodecamp.org/willjw3">
   <img width="30px" height="30px" src="/icons/freecodecamp.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCroJckuB_ohjtZUewCv0Ukw?view_as=subscriber">
   <img width="30px" height="30px" src="/icons/youtube.svg" />
 </a>
-<a href="https://www.linkedin.com/in/will-ward-65234a170/">
-  <img width="30px" height="30px" src="/icons/linkedin.svg" />
-</a>
+
 
 
 
