@@ -1,5 +1,5 @@
 [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/willjw3/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=5&theme=dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=3&theme=dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)
 
 <!--
 **willjw3/willjw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
