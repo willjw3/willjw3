@@ -31,6 +31,12 @@
 <a href="https://d3js.org/">
   <img width="30px" height="30px" src="/icons/d3js.svg" />
 </a>
+<a href="https://dev.mysql.com/doc/">
+  <img width="30px" height="30px" src="/icons/mysql.svg" />
+</a>
+<a href="https://www.mongodb.com/2">
+  <img width="30px" height="30px" src="/icons/mongodb.svg" />
+</a>
 <a href="https://docs.python.org/3/">
   <img width="30px" height="30px" src="/icons/python.svg" />
 </a>
