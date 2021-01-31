@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)
+[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&layout=compact&theme=dark&hide_border=true)](https://github.com/willjw3/github-readme-stats)
 
 <!--
 **willjw3/willjw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
