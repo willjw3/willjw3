@@ -8,49 +8,55 @@
 ### Tech I work with
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/javascript.png" />
+  <img width="40px" height="40px" src="/icons/javascript.svg" />
 </a>
 <a href="https://reactjs.org/docs/getting-started.html">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/react-native.png" />
+  <img width="40px" height="40px" src="/icons/react.svg" />
+</a>
+<a href="https://www.gatsbyjs.com/">
+  <img width="40px" height="40px" src="./icons/gatsby.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/html-5.png" />
+  <img width="40px" height="40px" src="/icons/html5.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/css3.png" />
+  <img width="40px" height="40px" src="/icons/css3.svg" />
 </a>
 <a href="https://nodejs.org/en/docs/">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/nodejs.png" />
+  <img width="40px" height="40px" src="/icons/nodejs.svg" />
 </a>
 <a href="https://graphql.org/">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/graphql.png" />
+  <img width="40px" height="40px" src="/icons/graphql.svg" />
 </a>
 <a href="https://d3js.org/">
-  <img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/1562726?s=400&v=4" />
+  <img width="40px" height="40px" src="/icons/d3js.svg" />
 </a>
 <a href="https://docs.python.org/3/">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/python.png" />
+  <img width="40px" height="40px" src="/icons/python.svg" />
 </a>
 <a href="https://www.linux.org/">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/linux.png" />
+  <img width="40px" height="40px" src="/icons/linux.svg" />
+</a>
+<a href="https://www.netlify.com/">
+  <img width="40px" height="40px" src="/icons/netlify.svg" />
 </a>
 <a href="https://docs.microsoft.com/en-us/azure/?product=featured">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/azure-1.png" />
-</a>
-<a href="https://docs.microsoft.com/en-us/azure/?product=featured">
-  <img width="40px" height="40px" src="./icons/gatsby.svg" />
+  <img width="40px" height="40px" src="/icons/microsoftazure.svg" />
 </a>
 
 ### Find me elsewhere
 
 <a href="https://stackoverflow.com/users/10262432/will-ward">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
+  <img width="40px" height="40px" src="/icons/stackoverflow.svg" />
+</a>
+<a href="https://www.freecodecamp.org/willjw3">
+  <img width="40px" height="40px" src="/icons/freecodecamp.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCroJckuB_ohjtZUewCv0Ukw?view_as=subscriber">
-  <img width="40px" height="40px" src="https://img.icons8.com/fluent/2x/youtube-play.png" />
+  <img width="40px" height="40px" src="/icons/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/will-ward-65234a170/">
-  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/linkedin.png" />
+  <img width="40px" height="40px" src="/icons/linkedin.svg" />
 </a>
 
 
