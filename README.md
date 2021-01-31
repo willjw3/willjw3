@@ -34,8 +34,8 @@
 <a href="https://www.linux.org/">
   <img width="40px" height="40px" src="https://img.icons8.com/color/2x/linux.png" />
 </a>
-<a href="https://docs.netlify.com/?_ga=2.245173253.1824144153.1612077074-1374524866.1571798145">
-  <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiDkNz1jCL6FhvOOZcqs8RcnqrKlAjNaFHQ&usqp=CAU" />
+<a href="https://docs.microsoft.com/en-us/azure/?product=featured">
+  <img width="40px" height="40px" src="https://img.icons8.com/color/2x/azure-1.png" />
 </a>
 
 
