@@ -10,6 +10,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img width="30px" height="30px" src="/icons/javascript.svg" />
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img width="30px" height="30px" src="/icons/typescript.svg" />
+</a>
 <a href="https://reactjs.org/docs/getting-started.html">
   <img width="30px" height="30px" src="/icons/react.svg" />
 </a>
