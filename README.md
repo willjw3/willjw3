@@ -37,6 +37,9 @@
 <a href="https://dev.mysql.com/doc/">
   <img width="30px" height="30px" src="/icons/mysql.svg" />
 </a>
+<a href="https://sequelize.org/master/">
+  <img width="30px" height="30px" src="/icons/sequelize.svg" />
+</a>
 <a href="https://www.mongodb.com/2">
   <img width="30px" height="30px" src="/icons/mongodb.svg" />
 </a>
