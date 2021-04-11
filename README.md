@@ -37,6 +37,9 @@
 <a href="https://dev.mysql.com/doc/">
   <img width="30px" height="30px" src="/icons/mysql.svg" />
 </a>
+<a href="https://www.prisma.io/">
+  <img width="30px" height="30px" src="/icons/prisma.svg" />
+</a>
 <a href="https://sequelize.org/master/">
   <img width="30px" height="30px" src="/icons/sequelize.svg" />
 </a>
