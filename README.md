@@ -16,9 +16,6 @@
 <a href="https://reactjs.org/docs/getting-started.html">
   <img width="30px" height="30px" src="/icons/react.svg" />
 </a>
-<a href="https://www.gatsbyjs.com/">
-  <img width="30px" height="30px" src="./icons/gatsby.svg" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img width="30px" height="30px" src="/icons/html5.svg" />
 </a>
@@ -33,6 +30,9 @@
 </a>
 <a href="https://d3js.org/">
   <img width="30px" height="30px" src="/icons/d3js.svg" />
+</a>
+<a href="https://www.gatsbyjs.com/">
+  <img width="30px" height="30px" src="./icons/gatsby.svg" />
 </a>
 <a href="https://dev.mysql.com/doc/">
   <img width="30px" height="30px" src="/icons/mysql.svg" />
