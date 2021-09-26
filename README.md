@@ -7,7 +7,7 @@
 
 ### Tech I work with
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a style="padding-right: 10px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img width="30px" height="30px" src="/icons/javascript.svg" />
 </a>
 <a href="https://www.typescriptlang.org/">
