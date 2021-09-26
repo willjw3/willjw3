@@ -34,29 +34,11 @@
 <a href="https://www.gatsbyjs.com/">
   <img width="30px" height="30px" src="./icons/gatsby.svg" />
 </a>
-<a href="https://dev.mysql.com/doc/">
-  <img width="30px" height="30px" src="/icons/mysql.svg" />
-</a>
-<a href="https://www.prisma.io/">
-  <img width="30px" height="30px" src="/icons/prisma.svg" />
-</a>
-<a href="https://sequelize.org/master/">
-  <img width="30px" height="30px" src="/icons/sequelize.svg" />
-</a>
-<a href="https://www.mongodb.com/2">
-  <img width="30px" height="30px" src="/icons/mongodb.svg" />
-</a>
 <a href="https://docs.python.org/3/">
   <img width="30px" height="30px" src="/icons/python.svg" />
 </a>
 <a href="https://www.linux.org/">
   <img width="30px" height="30px" src="/icons/linux.svg" />
-</a>
-<a href="https://www.netlify.com/">
-  <img width="30px" height="30px" src="/icons/netlify.svg" />
-</a>
-<a href="https://docs.microsoft.com/en-us/azure/?product=featured">
-  <img width="30px" height="30px" src="/icons/microsoftazure.svg" />
 </a>
 
 ### Find me elsewhere
