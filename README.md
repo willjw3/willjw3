@@ -19,7 +19,7 @@
 [![YouTube Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10262432/will-ward)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=willjw3&count_private=false&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=5&theme=tokyonight&layout=compact)]()
 
 
 
