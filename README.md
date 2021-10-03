@@ -1,60 +1,25 @@
-<a href="https://github.com/willjw3/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willjw3&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
-</a>
-<a href="https://github.com/willjw3/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willjw3&langs_count=4&theme=dark&hide_border=true" />
-</a>
+**Languages**    
+![JavaScript Tag](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript Tag](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python Tag](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![HTML5 Tag](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Tag](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)    
 
-### Tech I work with
+**Frameworks, libraries, databases, etc.**    
+![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node Tag](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Django Tag](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) 
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img width="30px" height="30px" src="/icons/javascript.svg" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img width="30px" height="30px" src="/icons/typescript.svg" />
-</a>
-<a href="https://reactjs.org/docs/getting-started.html">
-  <img width="30px" height="30px" src="/icons/react.svg" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img width="30px" height="30px" src="/icons/html5.svg" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img width="30px" height="30px" src="/icons/css3.svg" />
-</a>
-<a href="https://nodejs.org/en/docs/">
-  <img width="30px" height="30px" src="/icons/nodejs.svg" />
-</a>
-<a href="https://graphql.org/">
-  <img width="30px" height="30px" src="/icons/graphql.svg" />
-</a>
-<a href="https://d3js.org/">
-  <img width="30px" height="30px" src="/icons/d3js.svg" />
-</a>
-<a href="https://www.gatsbyjs.com/">
-  <img width="30px" height="30px" src="./icons/gatsby.svg" />
-</a>
-<a href="https://docs.python.org/3/">
-  <img width="30px" height="30px" src="/icons/python.svg" />
-</a>
-<a href="https://www.linux.org/">
-  <img width="30px" height="30px" src="/icons/linux.svg" />
-</a>
 
-### Find me elsewhere
+**Find me elsewhere**  
+[![Linked In Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-ward-65234a170/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCroJckuB_ohjtZUewCv0Ukw)
+[![YouTube Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10262432/will-ward)
 
-<a href="https://stackoverflow.com/users/10262432/will-ward">
-  <img width="30px" height="30px" src="/icons/stackoverflow.svg" />
-</a>
-<a href="https://www.linkedin.com/in/will-ward-65234a170/">
-  <img width="30px" height="30px" src="/icons/linkedin.svg" />
-</a>
-<a href="https://www.freecodecamp.org/willjw3">
-  <img width="30px" height="30px" src="/icons/freecodecamp.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCroJckuB_ohjtZUewCv0Ukw?view_as=subscriber">
-  <img width="30px" height="30px" src="/icons/youtube.svg" />
-</a>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=willjw3&count_private=false&theme=tokyonight&showicons=true)]()
 
 
 
